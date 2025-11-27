@@ -1,0 +1,5 @@
+{
+  "name": "NutriWheel",
+  "description": "An AI-powered food randomizer and nutrition advisor using Google Gemini to generate menus, analyze health impact, and provide gamified feedback.",
+  "requestFramePermissions": []
+}
