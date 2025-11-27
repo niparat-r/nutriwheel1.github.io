@@ -26,3 +26,6 @@ jobs:
       run: |
         npm install
         gulp
+
+    - name: Install Gulp
+  run: npm install gulp gulp-cli --save-dev
