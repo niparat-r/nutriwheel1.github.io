@@ -22,6 +22,8 @@
     "vite": "^6.2.0"
   }
   cd ~/work/nutriwheel1.github.io/nutriwheel1.github.io
+  npm install gulp --save-dev
+
 }
 
 
